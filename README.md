@@ -1,2 +1,98 @@
-# resources
-Collection of useful development/learning resources.
+# Useful Resources collection
+Welcome to my collection of useful repositories/sites/articles as a point of reference for learning and development purposes.
+
+## 📚 Table of Contents
+
+- [New !](#new)
+- [Frontend Development](#frontend-development)
+  - [UI Libraries](#ui-libraries)
+- [Backend Development](#backend-development)
+  - [Databases](#databases)
+- [DevOps & Deployment](#devops--deployment)
+    - [Hosting](#hosting)
+    - [Deployment](#deployment)
+- [Tools & Utilities](#tools--utilities)
+- [Learning Platforms](#learning-platforms)
+- [Guides](#guides)
+
+---
+
+## New
+
+| Name | Type | Description | Link |
+|------|------|-------------|------|
+| CSS Tricks | Website | Tips and guides on CSS | [css-tricks.com](https://css-tricks.com) |
+| MDN Web Docs - HTML | Documentation | Authoritative HTML reference | [developer.mozilla.org](https://developer.mozilla.org/en-US/docs/Web/HTML) |
+
+---
+
+## 🖥️ Frontend Development
+
+### UI Libraries
+
+| Name | Type | Description | Link |
+|------|------|-------------|------|
+| TailwindCSS | Documentation | Inline styling | [tailwindcss.com](https://tailwindcss.com/) |
+| ShadCN UI | Library | Tailwind based| [ui.shadcn.com](https://ui.shadcn.com/) |
+
+---
+
+## 🔧 Backend Development
+
+### Databases
+
+| Name | Type | Description | Link |
+|------|------|-------------|------|
+| Supabase |  |  |  |
+| Pocketbase |  |  |  |
+| Neon |  |  |  |
+| PgBouncer |  |  |  |
+| SQLBolt | Interactive Tutorial | Learn SQL step-by-step | [sqlbolt.com](https://sqlbolt.com) |
+
+---
+
+## 🚀 DevOps & Deployment
+
+### Hosting
+
+### Deployment
+
+| Name | Type | Description | Link |
+|------|------|-------------|------|
+| DigitalOcean Tutorials | Tutorial Series | Guides on deployment, servers, and devops | [digitalocean.com](https://www.digitalocean.com/community/tutorials) |
+
+---
+
+## 🛠 Tools & Utilities
+
+| Name | Type | Description | Link |
+|------|------|-------------|------|
+| Regex101 | Online Tool | Regex tester and debugger | [regex101.com](https://regex101.com) |
+| JSON Formatter | Online Tool | Format and validate JSON | [jsonformatter.org](https://jsonformatter.org) |
+
+---
+
+## 📘 Learning Platforms
+
+| Name | Type | Description | Link |
+|------|------|-------------|------|
+| freeCodeCamp | Course Platform | Learn full-stack development for free | [freecodecamp.org](https://www.freecodecamp.org) |
+| The Odin Project | Curriculum | Web development curriculum | [theodinproject.com](https://www.theodinproject.com) |
+
+---
+
+## 📖 Books & Reading
+
+| Name | Type | Description | Link |
+|------|------|-------------|------|
+| Eloquent JavaScript | Book | A modern introduction to JavaScript | [eloquentjavascript.net](https://eloquentjavascript.net) |
+
+---
+
+## Guides
+
+| Name | Type | Description | Link |
+|------|------|-------------|------|
+| Roadmap.sh | Visual Guide | Developer roadmaps and learning paths | [roadmap.sh](https://roadmap.sh) |
+
+---
