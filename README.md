@@ -9,6 +9,8 @@ Welcome to my collection of useful repositories/sites/articles as a point of ref
   - [UI Libraries](#ui-libraries)
 - [Backend Development](#backend-development)
   - [Databases](#databases)
+- [Cross-platform Development](#cross-platform-development)
+  - [Frameworks](#cross-platform-frameworks)
 - [DevOps & Deployment](#devops--deployment)
   - [Hosting](#hosting)
   - [Deployment](#deployment)
@@ -52,6 +54,17 @@ Welcome to my collection of useful repositories/sites/articles as a point of ref
 | Neon       |                      |                        |                                    |
 | PgBouncer  |                      |                        |                                    |
 | SQLBolt    | Interactive Tutorial | Learn SQL step-by-step | [sqlbolt.com](https://sqlbolt.com) |
+
+---
+
+## Cross Platform Development
+
+### Frameworks
+
+| Name     | Type      | Description                               | Link                             |
+| -------- | --------- | ----------------------------------------- | -------------------------------- |
+| Tauri    | Framework | fast, small, cross platform, rust powered | [tauri.app]](https://tauri.app/) |
+| Electron |           |                                           |                                  |
 
 ---
 
