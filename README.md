@@ -36,10 +36,13 @@ Welcome to my collection of useful repositories/sites/articles as a point of ref
 
 ### UI Libraries
 
-| Name        | Type          | Description    | Link                                        |
-| ----------- | ------------- | -------------- | ------------------------------------------- |
-| TailwindCSS | Documentation | Inline styling | [tailwindcss.com](https://tailwindcss.com/) |
-| ShadCN UI   | Library       | Tailwind based | [ui.shadcn.com](https://ui.shadcn.com/)     |
+| Name          | Type          | Description                                | Link                                          |
+| ------------- | ------------- | ------------------------------------------ | --------------------------------------------- |
+| TailwindCSS   | Documentation | Inline styling                             | [tailwindcss.com](https://tailwindcss.com/)   |
+| ShadCN UI     | Library       | Tailwind based                             | [ui.shadcn.com](https://ui.shadcn.com/)       |
+| headless UI   | UI Components | Unstyled, accessible tailwind styled icons | [headlessui.com](https://headlessui.com/)     |
+| hero Icons    | Icons         |                                            | [ui.shadcn.com](https://heroicons.com/)       |
+| Hero Patterns | Patterns      |                                            | [heropatterns.com](https://heropatterns.com/) |
 
 ---
 
