@@ -17,6 +17,7 @@ Welcome to my collection of useful repositories/sites/articles as a point of ref
 - [Tools & Utilities](#tools--utilities)
 - [Blogs](#blogs)
 - [Guides](#guides)
+- [Interview](#interview-resources)
 
 ---
 
@@ -41,7 +42,7 @@ Welcome to my collection of useful repositories/sites/articles as a point of ref
 | TailwindCSS   | Documentation | Inline styling                             | [tailwindcss.com](https://tailwindcss.com/)   |
 | ShadCN UI     | Library       | Tailwind based                             | [ui.shadcn.com](https://ui.shadcn.com/)       |
 | headless UI   | UI Components | Unstyled, accessible tailwind styled icons | [headlessui.com](https://headlessui.com/)     |
-| hero Icons    | Icons         |                                            | [ui.shadcn.com](https://heroicons.com/)       |
+| hero Icons    | Icons         |                                            | [heroicons](https://heroicons.com/)           |
 | Hero Patterns | Patterns      |                                            | [heropatterns.com](https://heropatterns.com/) |
 
 ---
@@ -64,10 +65,10 @@ Welcome to my collection of useful repositories/sites/articles as a point of ref
 
 ### Frameworks
 
-| Name     | Type      | Description                               | Link                             |
-| -------- | --------- | ----------------------------------------- | -------------------------------- |
-| Tauri    | Framework | fast, small, cross platform, rust powered | [tauri.app]](https://tauri.app/) |
-| Electron |           |                                           |                                  |
+| Name     | Type      | Description                               | Link                            |
+| -------- | --------- | ----------------------------------------- | ------------------------------- |
+| Tauri    | Framework | fast, small, cross platform, rust powered | [tauri.app](https://tauri.app/) |
+| Electron |           |                                           |                                 |
 
 ---
 
@@ -116,3 +117,12 @@ Welcome to my collection of useful repositories/sites/articles as a point of ref
 | Roadmap.sh | Visual Guide | Developer roadmaps and learning paths | [roadmap.sh](https://roadmap.sh) |
 
 ---
+
+## Interview Resources
+
+| Name                              | Type          | Description                      | Link                                                                                             |
+| --------------------------------- | ------------- | -------------------------------- | ------------------------------------------------------------------------------------------------ |
+| Hello Interview                   | System Design | Preperation for system design    | [hellointerview.com](https://www.hellointerview.com/learn/system-design/in-a-hurry/introduction) |
+| GreatFrontEnd                     | Coding        | GFE75, frontend coding questions | [GFE75](https://www.greatfrontend.com/interviews/gfe75)                                          |
+| Leetcode (Blind 75)               | Coding        | LC                               | [Blind 75](https://leetcode.com/problem-list/oizxjoit/)                                          |
+| Mastering behaviourial Interviews | Book          |                                  | [thebehaviourial](hhttps://thebehavioral.substack.com/)                                          |
