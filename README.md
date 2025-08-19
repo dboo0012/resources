@@ -44,6 +44,7 @@ Welcome to my collection of useful repositories/sites/articles as a point of ref
 | headless UI   | UI Components | Unstyled, accessible tailwind styled icons | [headlessui.com](https://headlessui.com/)     |
 | hero Icons    | Icons         |                                            | [heroicons](https://heroicons.com/)           |
 | Hero Patterns | Patterns      |                                            | [heropatterns.com](https://heropatterns.com/) |
+| Simple Icons  | Icons         |                                            | [simpleicons.org](https://simpleicons.org/)   |
 
 ---
 
