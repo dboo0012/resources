@@ -114,9 +114,10 @@ Welcome to my collection of useful repositories/sites/articles as a point of ref
 
 ## Guides
 
-| Name       | Type         | Description                           | Link                             |
-| ---------- | ------------ | ------------------------------------- | -------------------------------- |
-| Roadmap.sh | Visual Guide | Developer roadmaps and learning paths | [roadmap.sh](https://roadmap.sh) |
+| Name       | Type          | Description                           | Link                                        |
+| ---------- | ------------- | ------------------------------------- | ------------------------------------------- |
+| Roadmap.sh | Visual Guide  | Developer roadmaps and learning paths | [roadmap.sh](https://roadmap.sh)            |
+| jsInfo     | Example Guide | Collection of modern JS examples      | [javascript.info](https://javascript.info/) |
 
 ---
 
