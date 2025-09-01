@@ -87,10 +87,11 @@ Welcome to my collection of useful repositories/sites/articles as a point of ref
 
 ## 🛠 Tools & Utilities
 
-| Name           | Type        | Description               | Link                                                    |
-| -------------- | ----------- | ------------------------- | ------------------------------------------------------- |
-| Regex101       | Online Tool | Regex tester and debugger | [regex101.com](https://regex101.com)                    |
-| FFMPEG JS port | Conversion  | ffmpge web assembly port  | [ffmpegwasm](https://github.com/ffmpegwasm/ffmpeg.wasm) |
+| Name             | Type        | Description                                                                     | Link                                                    |
+| ---------------- | ----------- | ------------------------------------------------------------------------------- | ------------------------------------------------------- |
+| Regex101         | Online Tool | Regex tester and debugger                                                       | [regex101.com](https://regex101.com)                    |
+| FFMPEG JS port   | Conversion  | ffmpge web assembly port                                                        | [ffmpegwasm](https://github.com/ffmpegwasm/ffmpeg.wasm) |
+| whatsapp web api | Conversion  | Creates whatsapp clients in Puppeteer for api usage in NodeJS. Unofficiall OSS. | [wwebjs](https://wwebjs.dev/)                           |
 
 ---
 
