@@ -15,6 +15,7 @@ Welcome to my collection of useful repositories/sites/articles as a point of ref
   - [Hosting](#hosting)
   - [Deployment](#deployment)
 - [Tools & Utilities](#tools--utilities)
+- [Prompt Libraries](#prompt-libraries)
 - [Blogs](#blogs)
 - [Guides](#guides)
 - [Interview](#interview-resources)
@@ -101,6 +102,17 @@ Welcome to my collection of useful repositories/sites/articles as a point of ref
 | ---------------- | --------------- | ------------------------------------- | ---------------------------------------------------- |
 | freeCodeCamp     | Course Platform | Learn full-stack development for free | [freecodecamp.org](https://www.freecodecamp.org)     |
 | The Odin Project | Curriculum      | Web development curriculum            | [theodinproject.com](https://www.theodinproject.com) |
+
+---
+
+## Prompt Libraries
+
+| Name             | Type     | Description                 | Link                                                                                                                  |
+| ---------------- | -------- | --------------------------- | --------------------------------------------------------------------------------------------------------------------- |
+| Anthropic        | Resource | Prompts                     | [docs.anthropic.com/resources/prompt-library/library](https://docs.anthropic.com/en/resources/prompt-library/library) |
+| Aiforeducation   | Resource | Quiz generation from slides | [aiforeducation](https://www.aiforeducation.io/prompt-library)                                                        |
+| prompts.chat     | Resource | Collection of prompts       | [prompts.chat](https://prompts.chat/)                                                                                 |
+| cursor directory | Resource | Cursor prompts              | [cursor.directory](https://cursor.directory/)                                                                         |
 
 ---
 
