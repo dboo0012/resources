@@ -120,7 +120,9 @@ Welcome to my collection of useful repositories/sites/articles as a point of ref
 
 | Name            | Type | Description       | Link                                                 |
 | --------------- | ---- | ----------------- | ---------------------------------------------------- |
+| Harper Reed     | Blog | Frontend blogging | [harper.blog ](https://harper.blog/)                 |
 | Frontendmasters | Blog | Frontend blogging | [frontendmasters](https://frontendmasters.com/blog/) |
+| Nan.fyi         | Blog | Blogging          | [nan](https://www.nan.fyi/)                          |
 
 ---
 
