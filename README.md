@@ -135,6 +135,7 @@ Welcome to my collection of useful repositories/sites/articles as a point of ref
 | Anthropics  Github      | Repo | Prompts Guides                    | [https://github.com/anthropics](https://github.com/anthropics) | 
 | Anthropic  Skills      | Resource | Prompts  Docs                   | [https://claude.com/blog/improving-frontend-design-through-skills](https://claude.com/blog/improving-frontend-design-through-skills) |
 | Anthropic        | Resource | Prompts                     | [docs.anthropic.com/resources/prompt-library/library](https://docs.anthropic.com/en/resources/prompt-library/library) |
+| Claude prompts        | Prompt library | Prompts                     | [platform.claude.com/docs/en/resources/prompt-library/library](https://platform.claude.com/docs/en/resources/prompt-library/library) |
 | Aiforeducation   | Resource | Quiz generation from slides | [aiforeducation](https://www.aiforeducation.io/prompt-library)                                                        |
 | prompts.chat     | Resource | Collection of prompts       | [prompts.chat](https://prompts.chat/)                                                                                 |
 | cursor directory | Resource | Cursor prompts              | [cursor.directory](https://cursor.directory/)                                                                         |
