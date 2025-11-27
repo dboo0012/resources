@@ -7,8 +7,11 @@ Welcome to my collection of useful repositories/sites/articles as a point of ref
 - [New !](#new)
 - [Frontend Development](#frontend-development)
   - [UI Libraries](#ui-libraries)
+  - [UI Design](#ui-design)
 - [Backend Development](#backend-development)
   - [Databases](#databases)
+  - [Authentication](#authentication)
+  - [Payments](#payment)
 - [Cross-platform Development](#cross-platform-development)
   - [Frameworks](#cross-platform-frameworks)
 - [DevOps & Deployment](#devops--deployment)
@@ -27,6 +30,7 @@ Welcome to my collection of useful repositories/sites/articles as a point of ref
 | Name       | Type    | Description            | Link                                     |
 | ---------- | ------- | ---------------------- | ---------------------------------------- |
 | CSS Tricks | Website | Tips and guides on CSS | [css-tricks.com](https://css-tricks.com) |
+| Nuqs | Package | Type-safe search params state manager for React | [nuqs.dev](https://nuqs.dev) |
 
 1. Revise Javascript fundamentals
 2. Understand database indexing
@@ -47,6 +51,11 @@ Welcome to my collection of useful repositories/sites/articles as a point of ref
 | Hero Patterns | Patterns      |                                            | [heropatterns.com](https://heropatterns.com/) |
 | Simple Icons  | Icons         |                                            | [simpleicons.org](https://simpleicons.org/)   |
 
+### UI Design
+| Name          | Type          | Description                                | Link                                          |
+| ------------- | ------------- | ------------------------------------------ | --------------------------------------------- |
+| SearchSystem.co   | Collection | Industry sites                              | [https://searchsystem.co](https://searchsystem.co)   |
+
 ---
 
 ## 🔧 Backend Development
@@ -60,6 +69,19 @@ Welcome to my collection of useful repositories/sites/articles as a point of ref
 | Neon       |                      |                        |                                    |
 | PgBouncer  |                      |                        |                                    |
 | SQLBolt    | Interactive Tutorial | Learn SQL step-by-step | [sqlbolt.com](https://sqlbolt.com) |
+| Prisma    | Schema | OSS DB Schema | [prisma.io](https://www.prisma.io/) |
+
+### Authentication
+
+| Name       | Type                 | Description            | Link                               |
+| ---------- | -------------------- | ---------------------- | ---------------------------------- |
+| Better Auth   |                      |                        |   [better-auth.com](https://www.better-auth.com/) |
+
+### Payment
+
+| Name       | Type                 | Description            | Link                               |
+| ---------- | -------------------- | ---------------------- | ---------------------------------- |
+| Polar   |                      | Payment processor OSS, DX focused |   [polar.sh](https://polar.sh/) |
 
 ---
 
@@ -109,6 +131,9 @@ Welcome to my collection of useful repositories/sites/articles as a point of ref
 
 | Name             | Type     | Description                 | Link                                                                                                                  |
 | ---------------- | -------- | --------------------------- | --------------------------------------------------------------------------------------------------------------------- |
+| Gemini CLI        | Repo | Prompts Tips                    | [https://github.com/addyosmani/gemini-cli-tips](https://github.com/addyosmani/gemini-cli-tips) |
+| Anthropics  Github      | Repo | Prompts Guides                    | [https://github.com/anthropics](https://github.com/anthropics) | 
+| Anthropic  Skills      | Resource | Prompts  Docs                   | [https://claude.com/blog/improving-frontend-design-through-skills](https://claude.com/blog/improving-frontend-design-through-skills) |
 | Anthropic        | Resource | Prompts                     | [docs.anthropic.com/resources/prompt-library/library](https://docs.anthropic.com/en/resources/prompt-library/library) |
 | Aiforeducation   | Resource | Quiz generation from slides | [aiforeducation](https://www.aiforeducation.io/prompt-library)                                                        |
 | prompts.chat     | Resource | Collection of prompts       | [prompts.chat](https://prompts.chat/)                                                                                 |
