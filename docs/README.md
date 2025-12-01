@@ -8,9 +8,13 @@ Credits: This collection is curated from various open-source projects, blogs, an
 
 - [Newly Added](#newly-added)
 - [Frontend Development](#frontend-development)
+  - [Frameworks](#frameworks-fe)
+  - [Packages](#packages)
   - [UI Libraries](#ui-libraries)
   - [UI Design](#ui-design)
+  - [Fonts](#fonts)
 - [Backend Development](#backend-development)
+  - [Frameworks](#frameworks-be)
   - [Databases](#databases)
   - [Authentication](#authentication)
   - [Payments](#payment)
@@ -20,6 +24,8 @@ Credits: This collection is curated from various open-source projects, blogs, an
   - [Hosting](#hosting)
   - [Deployment](#deployment)
 - [Tools & Utilities](#tools--utilities)
+  - [Libraries](#libraries)
+  - [Github Repositories](#github-repositories)
 - [Prompt Libraries](#prompt-libraries)
 - [Blogs](#blogs)
 - [Guides](#guides)
@@ -29,24 +35,39 @@ Credits: This collection is curated from various open-source projects, blogs, an
 
 ## Newly Added
 
-| Name       | Type    | Description                                     | Link                                     |
-| ---------- | ------- | ----------------------------------------------- | ---------------------------------------- |
-| CSS Tricks | Website | Tips and guides on CSS                          | [css-tricks.com](https://css-tricks.com) |
-| Nuqs       | Package | Type-safe search params state manager for React | [nuqs.dev](https://nuqs.dev)             |
+| Name       | Type    | Description            | Link                                     |
+| ---------- | ------- | ---------------------- | ---------------------------------------- |
+| CSS Tricks | Website | Tips and guides on CSS | [css-tricks.com](https://css-tricks.com) |
+
+Topics I want to dive deeper into:
 
 1. Revise Javascript fundamentals
-2. Understand database indexing
-3. Research on Web data structures and optimisations.
+2. Database Indexing
+3. Web data structures and optimisations achievable using WASM
 
 ---
 
 ## Frontend Development
+
+### Frameworks (FE)
+
+1. Next.js
+2. Tanstack Start (current)
+3. Vue
+4. vite + Reactjs
+
+### Packages
+
+| Name | Type    | Description                                     | Link                         |
+| ---- | ------- | ----------------------------------------------- | ---------------------------- |
+| Nuqs | Package | Type-safe search params state manager for React | [nuqs.dev](https://nuqs.dev) |
 
 ### UI Libraries
 
 | Name          | Type          | Description                                | Link                                          |
 | ------------- | ------------- | ------------------------------------------ | --------------------------------------------- |
 | TailwindCSS   | Documentation | Inline styling                             | [tailwindcss.com](https://tailwindcss.com/)   |
+| motion.dev    | animation     | Prev framer motion                         | [motion.dev](https://motion.dev/)             |
 | ShadCN UI     | Library       | Tailwind based                             | [ui.shadcn.com](https://ui.shadcn.com/)       |
 | headless UI   | UI Components | Unstyled, accessible tailwind styled icons | [headlessui.com](https://headlessui.com/)     |
 | hero Icons    | Icons         |                                            | [heroicons](https://heroicons.com/)           |
@@ -59,20 +80,36 @@ Credits: This collection is curated from various open-source projects, blogs, an
 | --------------- | ---------- | -------------- | -------------------------------------------------- |
 | SearchSystem.co | Collection | Industry sites | [https://searchsystem.co](https://searchsystem.co) |
 
+### Fonts
+
+| Name    | Type | Description       | Link                                                  |
+| ------- | ---- | ----------------- | ----------------------------------------------------- |
+| Satoshi | Font | clean, minimalist | [fontshare.com](https://www.fontshare.com/?q=Satoshi) |
+
 ---
 
 ## Backend Development
 
+### Frameworks (BE)
+
+| Name      | Type           | Description            | Link |
+| --------- | -------------- | ---------------------- | ---- |
+| ExpressJS | Javascript     | Big dawg               |      |
+| Hono      | Javascript     | Current                |      |
+| FastAPI   | Python         | Used in FYP            |      |
+| Go        | Go             | Want to pickup         |      |
+| Tauri     | Cross-platform | Rust-based, picking up |      |
+
 ### Databases
 
-| Name       | Type                 | Description            | Link                                |
-| ---------- | -------------------- | ---------------------- | ----------------------------------- |
-| Supabase   |                      |                        |                                     |
-| Pocketbase |                      |                        |                                     |
-| Neon       |                      |                        |                                     |
-| PgBouncer  |                      |                        |                                     |
-| SQLBolt    | Interactive Tutorial | Learn SQL step-by-step | [sqlbolt.com](https://sqlbolt.com)  |
-| Prisma     | Schema               | OSS DB Schema          | [prisma.io](https://www.prisma.io/) |
+| Name       | Type                 | Description                                                                                                                                          | Link                                |
+| ---------- | -------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------- |
+| Supabase   | Hosted DB            |                                                                                                                                                      |                                     |
+| Pocketbase | Hosted DB            |                                                                                                                                                      |                                     |
+| Neon       | Hosted DB            |                                                                                                                                                      |                                     |
+| PgBouncer  | Postgres Pooling     | lightweight PostgreSQL connection pooler that manages database connections by holding a pool of connections between the application and the database |                                     |
+| SQLBolt    | Interactive Tutorial | Learn SQL step-by-step                                                                                                                               | [sqlbolt.com](https://sqlbolt.com)  |
+| Prisma     | Schema               | Database schema Schema                                                                                                                               | [prisma.io](https://www.prisma.io/) |
 
 ### Authentication
 
@@ -103,21 +140,35 @@ Credits: This collection is curated from various open-source projects, blogs, an
 
 ### Hosting
 
+| Name                | Type             | Description                         | Link                                                          |
+| ------------------- | ---------------- | ----------------------------------- | ------------------------------------------------------------- |
+| cloudreve/cloudreve | File hosting     | Self-deploy file management         | [cloudreve/cloudreve](https://github.com/cloudreve/cloudreve) |
+| Planetscale         | Postgres hosting | $5/mo, high availability, pgbouncer | [planetscale.com/](https://planetscale.com/)                  |
+
 ### Deployment
 
-| Name                   | Type            | Description                               | Link                                                                 |
-| ---------------------- | --------------- | ----------------------------------------- | -------------------------------------------------------------------- |
-| DigitalOcean Tutorials | Tutorial Series | Guides on deployment, servers, and devops | [digitalocean.com](https://www.digitalocean.com/community/tutorials) |
+| Name                   | Type            | Description                               | Link                                                                                                                                      |
+| ---------------------- | --------------- | ----------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
+| Clouflare workers      | Hosting         | Deploy with workers using the CF stack    | [developers.cloudflare.com/workers/framework-guides](https://developers.cloudflare.com/workers/framework-guides/web-apps/tanstack-start/) |
+| DigitalOcean Tutorials | Tutorial Series | Guides on deployment, servers, and devops | [digitalocean.com](https://www.digitalocean.com/community/tutorials)                                                                      |
 
 ---
 
 ## Tools & Utilities
+
+### Libraries
 
 | Name             | Type        | Description                                                                     | Link                                                    |
 | ---------------- | ----------- | ------------------------------------------------------------------------------- | ------------------------------------------------------- |
 | Regex101         | Online Tool | Regex tester and debugger                                                       | [regex101.com](https://regex101.com)                    |
 | FFMPEG JS port   | Conversion  | ffmpge web assembly port                                                        | [ffmpegwasm](https://github.com/ffmpegwasm/ffmpeg.wasm) |
 | whatsapp web api | Conversion  | Creates whatsapp clients in Puppeteer for api usage in NodeJS. Unofficiall OSS. | [wwebjs](https://wwebjs.dev/)                           |
+
+### Github Repositories
+
+| Name                | Type | Description | Link                                                                     |
+| ------------------- | ---- | ----------- | ------------------------------------------------------------------------ |
+| harperreed/dotfiles | Repo | .dotfiles   | [github.com/harperreed/dotfiles](https://github.com/harperreed/dotfiles) |
 
 ---
 
@@ -149,7 +200,7 @@ Credits: This collection is curated from various open-source projects, blogs, an
 
 | Name            | Type | Description       | Link                                                 |
 | --------------- | ---- | ----------------- | ---------------------------------------------------- |
-| Harper Reed     | Blog | Frontend blogging | [harper.blog ](https://harper.blog/)                 |
+| Harper Reed     | Blog | general blogging  | [harper.blog ](https://harper.blog/)                 |
 | Frontendmasters | Blog | Frontend blogging | [frontendmasters](https://frontendmasters.com/blog/) |
 | Nan.fyi         | Blog | Blogging          | [nan](https://www.nan.fyi/)                          |
 
