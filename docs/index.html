@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Daryl's Resources</title>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+  <meta name="description" content="A collection of useful resources for learning and development.">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
+  
+  <!-- Theme: Dark -->
+  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/dark.css">
+  
+  <style>
+    /* Optional: Custom CSS to tweak the dark theme */
+    .sidebar {
+      background-color: #202020;
+    }
+    .content {
+      padding-top: 20px;
+    }
+  </style>
+</head>
+<body>
+  <div id="app">Loading Resource Collection...</div>
+  
+  <script>
+    window.docsify = {
+      name: 'Resource Collection',
+      repo: 'https://github.com/dboo0012/resources',
+      loadSidebar: false,   // We'll use the README headers as the sidebar
+      subMaxLevel: 3,       // Generate sidebar from H1-H3 headers
+      auto2top: true,       // Scroll to top on route change
+      
+      // Search Plugin Configuration
+      search: {
+        maxAge: 86400000,
+        paths: 'auto',
+        placeholder: 'Search resources...',
+        noData: 'No results found.',
+        depth: 6,
+      },
+      
+      // Copy Code Plugin Configuration
+      copyCode: {
+        buttonText: 'Copy',
+        errorText: 'Error',
+        successText: 'Copied!'
+      }
+    }
+  </script>
+  
+  <!-- Docsify Core -->
+  <script src="//cdn.jsdelivr.net/npm/docsify@4/lib/docsify.min.js"></script>
+  
+  <!-- Plugins -->
+  <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/zoom-image.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify-copy-code/dist/docsify-copy-code.min.js"></script>
+</body>
+</html>
+
