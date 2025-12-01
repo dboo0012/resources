@@ -4,7 +4,7 @@ Welcome to my collection of useful repositories/sites/articles as a point of ref
 
 ## 📚 Table of Contents
 
-- [New !](#new)
+- [Newly Added](#newly-added)
 - [Frontend Development](#frontend-development)
   - [UI Libraries](#ui-libraries)
   - [UI Design](#ui-design)
@@ -25,12 +25,12 @@ Welcome to my collection of useful repositories/sites/articles as a point of ref
 
 ---
 
-## New
+## Newly Added
 
-| Name       | Type    | Description            | Link                                     |
-| ---------- | ------- | ---------------------- | ---------------------------------------- |
-| CSS Tricks | Website | Tips and guides on CSS | [css-tricks.com](https://css-tricks.com) |
-| Nuqs | Package | Type-safe search params state manager for React | [nuqs.dev](https://nuqs.dev) |
+| Name       | Type    | Description                                     | Link                                     |
+| ---------- | ------- | ----------------------------------------------- | ---------------------------------------- |
+| CSS Tricks | Website | Tips and guides on CSS                          | [css-tricks.com](https://css-tricks.com) |
+| Nuqs       | Package | Type-safe search params state manager for React | [nuqs.dev](https://nuqs.dev)             |
 
 1. Revise Javascript fundamentals
 2. Understand database indexing
@@ -38,7 +38,7 @@ Welcome to my collection of useful repositories/sites/articles as a point of ref
 
 ---
 
-## 🖥️ Frontend Development
+## Frontend Development
 
 ### UI Libraries
 
@@ -52,36 +52,37 @@ Welcome to my collection of useful repositories/sites/articles as a point of ref
 | Simple Icons  | Icons         |                                            | [simpleicons.org](https://simpleicons.org/)   |
 
 ### UI Design
-| Name          | Type          | Description                                | Link                                          |
-| ------------- | ------------- | ------------------------------------------ | --------------------------------------------- |
-| SearchSystem.co   | Collection | Industry sites                              | [https://searchsystem.co](https://searchsystem.co)   |
+
+| Name            | Type       | Description    | Link                                               |
+| --------------- | ---------- | -------------- | -------------------------------------------------- |
+| SearchSystem.co | Collection | Industry sites | [https://searchsystem.co](https://searchsystem.co) |
 
 ---
 
-## 🔧 Backend Development
+## Backend Development
 
 ### Databases
 
-| Name       | Type                 | Description            | Link                               |
-| ---------- | -------------------- | ---------------------- | ---------------------------------- |
-| Supabase   |                      |                        |                                    |
-| Pocketbase |                      |                        |                                    |
-| Neon       |                      |                        |                                    |
-| PgBouncer  |                      |                        |                                    |
-| SQLBolt    | Interactive Tutorial | Learn SQL step-by-step | [sqlbolt.com](https://sqlbolt.com) |
-| Prisma    | Schema | OSS DB Schema | [prisma.io](https://www.prisma.io/) |
+| Name       | Type                 | Description            | Link                                |
+| ---------- | -------------------- | ---------------------- | ----------------------------------- |
+| Supabase   |                      |                        |                                     |
+| Pocketbase |                      |                        |                                     |
+| Neon       |                      |                        |                                     |
+| PgBouncer  |                      |                        |                                     |
+| SQLBolt    | Interactive Tutorial | Learn SQL step-by-step | [sqlbolt.com](https://sqlbolt.com)  |
+| Prisma     | Schema               | OSS DB Schema          | [prisma.io](https://www.prisma.io/) |
 
 ### Authentication
 
-| Name       | Type                 | Description            | Link                               |
-| ---------- | -------------------- | ---------------------- | ---------------------------------- |
-| Better Auth   |                      |                        |   [better-auth.com](https://www.better-auth.com/) |
+| Name        | Type | Description | Link                                            |
+| ----------- | ---- | ----------- | ----------------------------------------------- |
+| Better Auth |      |             | [better-auth.com](https://www.better-auth.com/) |
 
 ### Payment
 
-| Name       | Type                 | Description            | Link                               |
-| ---------- | -------------------- | ---------------------- | ---------------------------------- |
-| Polar   |                      | Payment processor OSS, DX focused |   [polar.sh](https://polar.sh/) |
+| Name  | Type | Description                       | Link                          |
+| ----- | ---- | --------------------------------- | ----------------------------- |
+| Polar |      | Payment processor OSS, DX focused | [polar.sh](https://polar.sh/) |
 
 ---
 
@@ -96,7 +97,7 @@ Welcome to my collection of useful repositories/sites/articles as a point of ref
 
 ---
 
-## 🚀 DevOps & Deployment
+## DevOps & Deployment
 
 ### Hosting
 
@@ -108,7 +109,7 @@ Welcome to my collection of useful repositories/sites/articles as a point of ref
 
 ---
 
-## 🛠 Tools & Utilities
+## Tools & Utilities
 
 | Name             | Type        | Description                                                                     | Link                                                    |
 | ---------------- | ----------- | ------------------------------------------------------------------------------- | ------------------------------------------------------- |
@@ -118,7 +119,7 @@ Welcome to my collection of useful repositories/sites/articles as a point of ref
 
 ---
 
-## 📘 Learning Platforms
+## Learning Platforms
 
 | Name             | Type            | Description                           | Link                                                 |
 | ---------------- | --------------- | ------------------------------------- | ---------------------------------------------------- |
@@ -129,16 +130,16 @@ Welcome to my collection of useful repositories/sites/articles as a point of ref
 
 ## Prompt Libraries
 
-| Name             | Type     | Description                 | Link                                                                                                                  |
-| ---------------- | -------- | --------------------------- | --------------------------------------------------------------------------------------------------------------------- |
-| Gemini CLI        | Repo | Prompts Tips                    | [https://github.com/addyosmani/gemini-cli-tips](https://github.com/addyosmani/gemini-cli-tips) |
-| Anthropics  Github      | Repo | Prompts Guides                    | [https://github.com/anthropics](https://github.com/anthropics) | 
-| Anthropic  Skills      | Resource | Prompts  Docs                   | [https://claude.com/blog/improving-frontend-design-through-skills](https://claude.com/blog/improving-frontend-design-through-skills) |
-| Anthropic        | Resource | Prompts                     | [docs.anthropic.com/resources/prompt-library/library](https://docs.anthropic.com/en/resources/prompt-library/library) |
-| Claude prompts        | Prompt library | Prompts                     | [platform.claude.com/docs/en/resources/prompt-library/library](https://platform.claude.com/docs/en/resources/prompt-library/library) |
-| Aiforeducation   | Resource | Quiz generation from slides | [aiforeducation](https://www.aiforeducation.io/prompt-library)                                                        |
-| prompts.chat     | Resource | Collection of prompts       | [prompts.chat](https://prompts.chat/)                                                                                 |
-| cursor directory | Resource | Cursor prompts              | [cursor.directory](https://cursor.directory/)                                                                         |
+| Name              | Type           | Description                 | Link                                                                                                                                 |
+| ----------------- | -------------- | --------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
+| Gemini CLI        | Repo           | Prompts Tips                | [https://github.com/addyosmani/gemini-cli-tips](https://github.com/addyosmani/gemini-cli-tips)                                       |
+| Anthropics Github | Repo           | Prompts Guides              | [https://github.com/anthropics](https://github.com/anthropics)                                                                       |
+| Anthropic Skills  | Resource       | Prompts Docs                | [https://claude.com/blog/improving-frontend-design-through-skills](https://claude.com/blog/improving-frontend-design-through-skills) |
+| Anthropic         | Resource       | Prompts                     | [docs.anthropic.com/resources/prompt-library/library](https://docs.anthropic.com/en/resources/prompt-library/library)                |
+| Claude prompts    | Prompt library | Prompts                     | [platform.claude.com/docs/en/resources/prompt-library/library](https://platform.claude.com/docs/en/resources/prompt-library/library) |
+| Aiforeducation    | Resource       | Quiz generation from slides | [aiforeducation](https://www.aiforeducation.io/prompt-library)                                                                       |
+| prompts.chat      | Resource       | Collection of prompts       | [prompts.chat](https://prompts.chat/)                                                                                                |
+| cursor directory  | Resource       | Cursor prompts              | [cursor.directory](https://cursor.directory/)                                                                                        |
 
 ---
 
