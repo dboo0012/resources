@@ -2,6 +2,8 @@
 
 Welcome to my collection of useful repositories/sites/articles as a point of reference for learning and development purposes.
 
+Credits: This collection is curated from various open-source projects, blogs, and documentation sites. A huge thanks to the creators and maintainers of the resources mentioned below.
+
 ## 📚 Table of Contents
 
 - [Newly Added](#newly-added)
