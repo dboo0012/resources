@@ -193,6 +193,7 @@ Topics I want to dive deeper into:
 | Aiforeducation    | Resource       | Quiz generation from slides | [aiforeducation](https://www.aiforeducation.io/prompt-library)                                                                       |
 | prompts.chat      | Resource       | Collection of prompts       | [prompts.chat](https://prompts.chat/)                                                                                                |
 | cursor directory  | Resource       | Cursor prompts              | [cursor.directory](https://cursor.directory/)                                                                                        |
+| OpenAI Cookbook   | Resource       | OpenAI Cookbook             | [cookbook.openai.com/examples/gpt-5/gpt-5_prompting_guide](https://cookbook.openai.com/examples/gpt-5/gpt-5_prompting_guide)         |
 
 ---
 
