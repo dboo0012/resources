@@ -1,4 +1,4 @@
-# Useful Resources collection
+# [Useful Resources collection](https://darylboon.me/resources/#/)
 
 Welcome to my collection of useful repositories/sites/articles as a point of reference for learning and development purposes.
 
