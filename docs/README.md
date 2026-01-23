@@ -37,7 +37,7 @@ Credits: This collection is curated from various open-source projects, blogs, an
 
 | Name       | Type    | Description            | Link                                     |
 | ---------- | ------- | ---------------------- | ---------------------------------------- |
-| CSS Tricks | Website | Tips and guides on CSS | [css-tricks.com](https://css-tricks.com) |
+| Vercel react-best-practices | Agent.md | To investigate | [react-best-practices](https://github.com/vercel-labs/agent-skills/tree/main/skills/react-best-practices) |
 
 Topics I want to dive deeper into:
 
