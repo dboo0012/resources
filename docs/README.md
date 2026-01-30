@@ -35,9 +35,10 @@ Credits: This collection is curated from various open-source projects, blogs, an
 
 ## Newly Added
 
-| Name                        | Type     | Description    | Link                                                                                                      |
-| --------------------------- | -------- | -------------- | --------------------------------------------------------------------------------------------------------- |
-| Vercel react-best-practices | Agent.md | To investigate | [react-best-practices](https://github.com/vercel-labs/agent-skills/tree/main/skills/react-best-practices) |
+| Name                        | Type           | Description    | Link                                                                                                      |
+| --------------------------- | -------------- | -------------- | --------------------------------------------------------------------------------------------------------- |
+| Vercel react-best-practices | Agent.md       | To investigate | [react-best-practices](https://github.com/vercel-labs/agent-skills/tree/main/skills/react-best-practices) |
+| Vercel agent browser        | library/skills | To investigate | [agent browser](https://github.com/vercel-labs/agent-browser)                                             |
 
 Topics I want to dive deeper into:
 
