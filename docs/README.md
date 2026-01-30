@@ -35,8 +35,8 @@ Credits: This collection is curated from various open-source projects, blogs, an
 
 ## Newly Added
 
-| Name       | Type    | Description            | Link                                     |
-| ---------- | ------- | ---------------------- | ---------------------------------------- |
+| Name                        | Type     | Description    | Link                                                                                                      |
+| --------------------------- | -------- | -------------- | --------------------------------------------------------------------------------------------------------- |
 | Vercel react-best-practices | Agent.md | To investigate | [react-best-practices](https://github.com/vercel-labs/agent-skills/tree/main/skills/react-best-practices) |
 
 Topics I want to dive deeper into:
@@ -183,17 +183,19 @@ Topics I want to dive deeper into:
 
 ## Prompt Libraries
 
-| Name              | Type           | Description                 | Link                                                                                                                                 |
-| ----------------- | -------------- | --------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
-| Gemini CLI        | Repo           | Prompts Tips                | [https://github.com/addyosmani/gemini-cli-tips](https://github.com/addyosmani/gemini-cli-tips)                                       |
-| Anthropics Github | Repo           | Prompts Guides              | [https://github.com/anthropics](https://github.com/anthropics)                                                                       |
-| Anthropic Skills  | Resource       | Prompts Docs                | [https://claude.com/blog/improving-frontend-design-through-skills](https://claude.com/blog/improving-frontend-design-through-skills) |
-| Anthropic         | Resource       | Prompts                     | [docs.anthropic.com/resources/prompt-library/library](https://docs.anthropic.com/en/resources/prompt-library/library)                |
-| Claude prompts    | Prompt library | Prompts                     | [platform.claude.com/docs/en/resources/prompt-library/library](https://platform.claude.com/docs/en/resources/prompt-library/library) |
-| Aiforeducation    | Resource       | Quiz generation from slides | [aiforeducation](https://www.aiforeducation.io/prompt-library)                                                                       |
-| prompts.chat      | Resource       | Collection of prompts       | [prompts.chat](https://prompts.chat/)                                                                                                |
-| cursor directory  | Resource       | Cursor prompts              | [cursor.directory](https://cursor.directory/)                                                                                        |
-| OpenAI Cookbook   | Resource       | OpenAI Cookbook             | [cookbook.openai.com/examples/gpt-5/gpt-5_prompting_guide](https://cookbook.openai.com/examples/gpt-5/gpt-5_prompting_guide)         |
+| Name | Type | Description | Link |
+| ---- | ---- | ----------- | ---- |
+
+| skills.sh | Collection | Agent Skills | [https://skills.sh/](https://skills.sh/) |
+| Gemini CLI | Repo | Prompts Tips | [https://github.com/addyosmani/gemini-cli-tips](https://github.com/addyosmani/gemini-cli-tips) |
+| Anthropics Github | Repo | Prompts Guides | [https://github.com/anthropics](https://github.com/anthropics) |
+| Anthropic Skills | Resource | Prompts Docs | [https://claude.com/blog/improving-frontend-design-through-skills](https://claude.com/blog/improving-frontend-design-through-skills) |
+| Anthropic | Resource | Prompts | [docs.anthropic.com/resources/prompt-library/library](https://docs.anthropic.com/en/resources/prompt-library/library) |
+| Claude prompts | Prompt library | Prompts | [platform.claude.com/docs/en/resources/prompt-library/library](https://platform.claude.com/docs/en/resources/prompt-library/library) |
+| Aiforeducation | Resource | Quiz generation from slides | [aiforeducation](https://www.aiforeducation.io/prompt-library) |
+| prompts.chat | Resource | Collection of prompts | [prompts.chat](https://prompts.chat/) |
+| cursor directory | Resource | Cursor prompts | [cursor.directory](https://cursor.directory/) |
+| OpenAI Cookbook | Resource | OpenAI Cookbook | [cookbook.openai.com/examples/gpt-5/gpt-5_prompting_guide](https://cookbook.openai.com/examples/gpt-5/gpt-5_prompting_guide) |
 
 ---
 
